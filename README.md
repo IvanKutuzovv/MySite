@@ -1,1 +1,1 @@
-https://IvanKutuzovv.github.io/MySite/
+https://IvanKutuzovv.github.io/сайт/
