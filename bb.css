@@ -1,0 +1,184 @@
+body{
+margin: 0;
+font-family: "Open Sans", sans-serif;
+background-color: #d8d9e8;
+}
+
+.home{
+    background-image: url('delphi.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 45vh;
+}
+
+.header-title {align-items: center;
+}
+
+.container {
+margin: 50px 500px;
+}
+
+.header-line{
+padding-top: 40px;
+display: flex;
+align-items: center;
+}
+
+.nav-item{
+color: #351b02;
+align-items: center;
+text-decoration: none;
+font-weight: 600;
+font-size: 20px;
+transition: color 0.2s linear;
+margin-right: 30px;
+}
+
+.nav-item:hover{
+color: #0e0f2b
+}
+
+.header-title{
+color: #595b92;
+font-size: 20px;
+font-weight: 700;
+margin-top: 90px;
+}
+
+.header-text{
+color: #351b02;
+font-size: 18px;
+font-weight: 600;
+width: 444px;
+margin-top: 15px;
+}
+
+.header-down{
+display: flex;
+}
+
+img{
+margin: 150px 30px;
+}
+
+.web3{
+display: flex;
+margin: 0px 100px;
+}
+
+.img2{
+margin-left: 300px;
+margin-top: 10px;
+}
+
+.facilities{
+margin-top: -25px;
+margin-left: 100px;
+color: #ffffff;
+}
+
+.facilities-title{
+font-weight: 700;
+}
+
+.web2-holder{
+display: flex;
+margin: 10px 100px;
+font-weight: 700;
+}
+
+.invitation{
+color: #595b92;
+margin-top: 100px;
+margin-left: 150px;
+}
+
+.map img {
+    position: absolute;
+}
+
+.map container{
+padding-top: 10px;
+margin: 10px;
+}
+
+.img8{
+margin: -100px 325px;
+}
+
+.feedback{
+    padding: 100px 0px;
+}
+
+.feedback form {
+margin: 10px auto;
+width: 600px;
+}
+
+
+.feedback form label {
+    font-size: 18px;
+}
+
+.feedback form input {
+    background: white;
+    border-radius: 250px;
+    padding: 25px 10px;
+    margin-top: 7px;
+    margin-bottom: 20px;
+    width: 90%;
+}
+
+.feedback form .btn {
+    background: white;
+    border-radius: 100px;
+    cursor: pointer;
+    padding: 15px 25px;
+    width: 600px;
+    font-size: 15px;
+}
+
+.btn{
+background: white;
+color: #1c0808;
+border-radius: 15px;
+padding: 15px 300px;
+border: 10;
+text-decoration: none;
+font-weight: 600;
+font-size: 20px;
+transition: color 0.2s linear;
+}
+
+.btn:hover{
+color: white;
+}
+
+.anketa{
+display: flex;
+justify-content: center
+margin: 10px -10px;
+}
+
+.zadacha1{
+padding: 10px -300px;
+margin: 10px 200px;
+width: 400px;
+}
+
+.zadacha1 form input{
+background: white;
+    border-radius: 20px;
+    padding: 15px 10px;
+    margin-top: 7px;
+
+    width: 50%;
+}
+
+.zadacha{
+padding: 10px 0;
+}
+
+.datapassport{
+margin: -50px 300px}
